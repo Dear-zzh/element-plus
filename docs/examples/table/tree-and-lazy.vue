@@ -118,7 +118,7 @@ const tableData1: User[] = [
     id: 3,
     date: '2016-05-01',
     name: 'wangxiaohu',
-    hasChildren: true,
+    // hasChildren: true,
     address: 'No. 189, Grove St, Los Angeles',
   },
   {
